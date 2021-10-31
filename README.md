@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Gangs-hub
-- 👀 I’m interested in ...Programming
-- 🌱 I’m currently learning ...node and DSA
-- 💞️ I’m looking to collaborate on ...NASA
+- 👋 Hi, I’m Gangadhar Kadam✨
+- 👀 I’m interested in ...Programming/Creating
+- 🌱 I’m currently learning ...Spring Boot
+- 💞️ I’m looking to collaborate in Human welefare
 - 📫 How to reach me ...via Linkdin
 
-<!---
-Gangs-hub/Gangs-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
